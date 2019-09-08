@@ -28,7 +28,6 @@ int main(void) {
   return 0;
 }
 
-
 //Funcao recursiva
 int fiboRec(int n) {
   if ((n == 1) || (n == 2))
